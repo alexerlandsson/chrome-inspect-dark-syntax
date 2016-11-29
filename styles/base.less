@@ -199,6 +199,10 @@ atom-text-editor::shadow .current-result .region {
 .invalid.illegal {
   background-color: @red;
   color: @syntax-background-color;
+  &.bad-ampersand {
+	  background-color: transparent;
+	  color: @syntax-text-color;
+  }
 }
 
 .string {
