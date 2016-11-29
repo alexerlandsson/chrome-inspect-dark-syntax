@@ -1,7 +1,7 @@
 {
   "name": "chrome-inspect-dark-syntax",
   "theme": "syntax",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Chrome Inspect Dark Syntax",
   "keywords": [
     "syntax",
